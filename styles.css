@@ -1,4 +1,9 @@
 body {
-    background-image: url(https://picsum.photos/id/100/1920/1080);
+    background-color: #E9ECEF;
     background-size: cover;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
 }
