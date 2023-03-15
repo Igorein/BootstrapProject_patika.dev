@@ -1,4 +1,4 @@
 # Patika Dev Bootstrap Projesi
 
 
-![](https://i.imgur.com/zUXNtJI.png)
+![](https://i.imgur.com/ZFiAmpt.png)
