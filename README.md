@@ -1,2 +1,4 @@
-# BootstrapProject_patika.dev
-Patika Dev Bootstrap Projes'
+# Patika Dev Bootstrap Projesi
+
+
+![](https://i.imgur.com/33Klh8a.png)
